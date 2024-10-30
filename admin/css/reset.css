@@ -1,0 +1,174 @@
+.contentparty-body html,
+.contentparty-body body,
+.contentparty-body div,
+.contentparty-body span,
+.contentparty-body applet,
+.contentparty-body object,
+.contentparty-body iframe,
+.contentparty-body h1,
+.contentparty-body h2,
+.contentparty-body h3,
+.contentparty-body h4,
+.contentparty-body h5,
+.contentparty-body h6,
+.contentparty-body p,
+.contentparty-body blockquote,
+.contentparty-body pre,
+.contentparty-body a,
+.contentparty-body abbr,
+.contentparty-body acronym,
+.contentparty-body address,
+.contentparty-body big,
+.contentparty-body cite,
+.contentparty-body code,
+.contentparty-body del,
+.contentparty-body dfn,
+.contentparty-body em,
+.contentparty-body img,
+.contentparty-body ins,
+.contentparty-body kbd,
+.contentparty-body q,
+.contentparty-body s,
+.contentparty-body samp,
+.contentparty-body small,
+.contentparty-body strike,
+.contentparty-body strong,
+.contentparty-body sub,
+.contentparty-body sup,
+.contentparty-body tt,
+.contentparty-body var,
+.contentparty-body b,
+.contentparty-body u,
+.contentparty-body i,
+.contentparty-body center,
+.contentparty-body dl,
+.contentparty-body dt,
+.contentparty-body dd,
+.contentparty-body ol,
+.contentparty-body ul,
+.contentparty-body li,
+.contentparty-body fieldset,
+.contentparty-body form,
+.contentparty-body label,
+.contentparty-body legend,
+.contentparty-body table,
+.contentparty-body caption,
+.contentparty-body tbody,
+.contentparty-body tfoot,
+.contentparty-body thead,
+.contentparty-body tr,
+.contentparty-body th,
+.contentparty-body td,
+.contentparty-body article,
+.contentparty-body aside,
+.contentparty-body canvas,
+.contentparty-body details,
+.contentparty-body embed,
+.contentparty-body figure,
+.contentparty-body figcaption,
+.contentparty-body footer,
+.contentparty-body header,
+.contentparty-body hgroup,
+.contentparty-body menu,
+.contentparty-body nav,
+.contentparty-body output,
+.contentparty-body ruby,
+.contentparty-body section,
+.contentparty-body summary,
+.contentparty-body time,
+.contentparty-body mark,
+.contentparty-body audio,
+.contentparty-body video {
+	margin:0;
+	padding:0;
+	border:0;
+	outline:0;
+	font-size:100%;
+	font:inherit;
+	vertical-align:baseline;
+}
+
+.contentparty-body input,
+.contentparty-body textarea{
+	box-shadow: none;
+}
+
+.contentparty-body article,
+.contentparty-body aside,
+.contentparty-body details,
+.contentparty-body figcaption,
+.contentparty-body figure,
+.contentparty-body footer,
+.contentparty-body header,
+.contentparty-body hgroup,
+.contentparty-body menu,
+.contentparty-body nav,
+.contentparty-body section {
+	display:block;
+}
+
+.contentparty-body {
+	line-height:1;
+}
+
+.contentparty-body img {
+	vertical-align:bottom;
+}
+
+.contentparty-body ol,
+.contentparty-body ul {
+	list-style:none;
+	zoom:1;
+}
+
+.contentparty-body li ul {
+	zoom:1;
+}
+
+.contentparty-body blockquote, q {
+	quotes:none;
+}
+
+.contentparty-body blockquote:before, blockquote:after, q:before, q:after {
+	content:'';
+	content:none;
+}
+
+.contentparty-body ins {
+	text-decoration:none;
+}
+
+.contentparty-body del {
+	text-decoration:line-through;
+}
+
+.contentparty-body sub {
+	vertical-align:sub;
+}
+
+.contentparty-body sup {
+	vertical-align:super;
+}
+
+.contentparty-body sub, sup {
+	font-size:0.5em;
+	line-height:100%;
+}
+
+.contentparty-body table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+.contentparty-body *:focus, :focus {
+	outline:0;
+	box-shadow:none;
+	border-color:transparent;
+}
+
+.contentparty-body @media print {
+	a[href]:after {
+	display:none;
+}
+
+}
